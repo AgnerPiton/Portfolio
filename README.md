@@ -7,6 +7,6 @@ Projects:
 
 Speech_recognition - Goal of correctly identifying sounds of words.
 
-Sleep stage classification - Goal of identifying which of the 5 sleep stages the participant was provided his brain wave signals.
+Sleep stage classification - Goal of identifying which of the 5 sleep stages the participant was by using his/her brain wave signals.
 
 This portfolio is under development.
