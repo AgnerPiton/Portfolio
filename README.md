@@ -6,9 +6,9 @@ This portfolio is under development.
 
 Projects:
 
-Speech recognition - Goal of correctly identifying sounds of words.
+Speech recognition - Goal of correctly identifying sounds of words. Use of neural networks keras sequential model.
 
-Sleep stage classification - Goal of identifying which of the 5 sleep stages the participant was by using his/her brain wave signals.
+Sleep stage classification - Goal of identifying which of the 5 sleep stages the participant was by using his/her brain wave signals. Use of 2 towers 2D convolutions.
 
 Spatiotemporal Analysis - Explorations of a dataset of virus incidence. Autocorrelation, Krigging, incidence maps and time series data.
 
