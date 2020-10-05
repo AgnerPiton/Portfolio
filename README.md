@@ -1,7 +1,7 @@
 # Portfolio
 
 Welcome to my portfolio of projects.
-Here you can find what I have been working on.
+Here you can find what I have been working on. Click here for a better overview https://github.com/AgnerPiton/Portfolio
 This portfolio is under development.
 
 Projects:
