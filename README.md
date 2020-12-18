@@ -7,6 +7,10 @@ This portfolio is under development.
 
 Projects:
 
+Web scraping and data visualization - Get data from differente sources, join and visualize.
+
+Generative Adversarial Network - Build a basic GAN.
+
 Speech recognition - Goal of correctly identifying sounds of words. Use of neural networks keras sequential model.
 
 Sleep stage classification - Goal of identifying which of the 5 sleep stages the participant was by using his/her brain wave signals. Use of 2 towers 2D convolutions.
